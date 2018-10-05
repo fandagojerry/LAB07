@@ -1,17 +1,17 @@
-<?php include "inc/html-top.inc"; ?>
-<body>
+<?php include "inc/html.inc"; ?>
 <header>
-	<h1>Three U of R Students</h1>
+      <h1> Three students at UR</h1>
 </header>
-<?php include "inc/nav.inc"; ?>
+
 <article>
 	<h2>Victoria Bongard</h2>
+	<img src="images/victoria.jpg" alt="Victoria">
 	<h3>About Me</h3>
 	
 	<p>My name is Victoria Bongard and I am a junior attending the University of Rochester. I am double majoring in Film and Media Studies and Digital Media Studies with a minor in Computer Science. I was born in Durham, North Carolina and then spent a year of my infancy in New York City before moving to Blacksburg, Virginia for most of the remainder of my childhood. My family moved to Bloomington, Indiana during the summer before I started high school. Two months after moving I began attending Chatham Hall, an all-girls boarding school located in rural southern Virginia. While my family has lived in Indiana for the past 6 years, I have only ever spent breaks there. Thus, I consider myself to be from Virginia and occasionally Indiana, too.</p>
 
 	<h2>Aliye gallagher</h2>
-
+	<img src="images/aliye.jpg" alt="Aliye">
 	<h3>About me</h3>
 	<p>I created my own major here at the U of R (a DIY major!), through the interdepartmental
        major track. I realized in my first year that none of the majors that were offered were
@@ -27,14 +27,22 @@
        explanation of each class I planned to take and how they fit in. A few months later,
        my proposal was approved.
      </p>
-
+     
+    <h2>Lihui Guo</h2>
+    <img src="images/lihui.jpg" alt="Lihui">
     <h3>About me</h3>
 	<p>I grew up in Brooklyn, New York in a predominantly Asian-American and Italian-American neighborhood. My parents had just moved from Japan/China to be with other family in New York City. I spent a lot of time with relatives as a child, particularly with my older cousins and grandparents. Our neighborhood had everything we needed – everything was within walking distance, and it was really nice to have family so close. My family was and still is super important to me. They’re always my biggest supporters and I really appreciate how my parents aren’t stereotypical “Asian tiger parents”.</p>
 
-
 </article>
+<footer>
+	<p> CSC 174 Team TOKYO </p>
 
-<script src="http://code.jquery.com/jquery.js"></script>
-<script src="js/menu-highlighter.js"></script>
+	 <ul> 
+        <li> <a href="http://csc174.org/assignment02/agallagher/">Aliye's page</a></li> 
+        <li> <a href="http://csc174.org/assignment02/lguo/">Lihui's page</a> </li> 
+        <li> <a href="http://csc174.org/assignment02/vbongard/">Victoria's page</a></li> 
+    </ul>
+</footer>
+</div>
 </body>
 </html>
