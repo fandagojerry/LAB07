@@ -12,7 +12,7 @@ TEAM Website link:http://csc174.org/assignment07/tokyo/
 
 ## Ontology
 
-This website contains two pages Home and subpage about three U of R students. Home page will contain general introduction of each students. The subpage will contain more in-depth details about similarities of the two students and difference between the two students and the third student. Two students have similarities in film and photography experience. The third student is different in major and work experience than the other two. In Each page will also contain reference from the student's original website.
+This website contains two pages Home and subpage about three U of R students. Home page will contain general introduction of each students. The subpage will contain more in-depth details about similarities of the two students in photography and file and difference between the two students and the third student who is in marketing. Two students have similarities in film and photography experience. The third student is different in work experience in marketing than the other two. In Each page will also contain reference from the student's original website.
 
 ## Taxonomy
 
