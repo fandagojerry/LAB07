@@ -1,10 +1,11 @@
-/* In this css, part1 is for the general style that 
+/* part1 is for the general style that 
 both webpages will follow
-
-part 2
-
+part 2: home page Z-pattern style
+part 3: subpage F-pattern style
  */
 
+
+/*part1*/
 body {margin: 0 auto;
 	width: 90%;
 	max-width: 960px;
@@ -16,8 +17,6 @@ body {margin: 0 auto;
 /* styles from http://typespiration.com/types/the-beauty-of-words */
 
 h1 {
-	color: #252010;
-	font-family: 'Expletus Sans';
 	font-size: 48px;
 	font-weight: 400;
 	line-height: 60px;
@@ -28,14 +27,45 @@ h1 {
 
 p {
 	color: #40371D;
-	font-family: 'Dosis';
-	font-size: 22px;
-	font-weight: 400;
+	font-size: 20px;
 	line-height: 36px;
-	margin-bottom: 36px;
+	margin-bottom: 32px;
+	padding-bottom: 40px;
+	}
+
+/* part2*/
+
+/* The hero image (w3school reference) */
+.hero-image {
+    /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/hero.png");
+
+    /* Set a specific height */
+    height: 50%;
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 200px;
 }
 
-/* */
+/* Place text in the middle of the image */
+h1 {
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    color: white;
+}
+
+
+/* resize images */
+img.firpic{
+	max-height: 200px;
+    width: auto;
+    
+}
 
 
 img {
@@ -47,16 +77,18 @@ img {
 
 img.secpic {
 	float: left;
-
+	max-height: 200px;
+    width: auto
 }
 
 
 footer {font-size: medium;
 	font-style: italic;
-	text-align: center;}
+}
 
-h3 {text-decoration: none;
-	font-size: 80%}
+h2 {float: center;
+	border-style: outset;
+	}
 
 a {color: #333333;}
 
