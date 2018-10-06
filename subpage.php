@@ -1,10 +1,19 @@
 <?php include "inc/html.inc"; ?>
+
+<div class="container2">
 <header>
       <h1>Experence in Art VS Marketing Experience</h1>
 </header>
 
 
-	<article>
+
+
+  <section class="lead">
+  <h2> About the three students</h2>
+  <p>Hey! This website will tell some brief stories about three U of R students: Victoria Bongard, Aliye gallagher,and Li Guo. Two students have similarities in film and photography experience. The third student is different in work experience in marketing than the other two. Can you find them? </p>
+  </section>
+
+  <article>
 
 	<h2>Victoria Bongard</h2>
 	<h3>Employment</h3>
@@ -38,17 +47,57 @@
 	<p>The summer after freshman year, I worked for a Public Relations firm. It involved making a lot of cold calls, which I hated, but really got me over my distaste of talking on the phone. I also prepared press kits and got to write media pitches, which was considerably easier for me to do. The next summer, I worked at a not-for-profit called DoSomething.org! They were in the business of creating social good by encouraging teenagers to take action on various issues ranging from environmental awareness to sexual health. I worked on the Marketing team, and that internship basically locked me into wanting to work in Marketing, as well as for an organization that dealt with something that I was really passionate about. It was really easy waking up at 7AM to go to work when I was happy to be there. The company culture was really fun, with themed Fridays, bake-offs, and pool floats everywhere. Now that I’m a senior, I’m starting the job hunt for post-graduation, so here’s hoping that I land a position with a company that cares about its employees!</p>
 	
 </article>
-<footer>
-	<p> CSC 174 Team TOKYO </p>
 
-	 <ul> 
+<aside>
+
+<h2>Clues</h2>
+ <ol>
+    <li> Victoria
+         <ul>
+          <li>camp counselor</li>
+          <li>photographer</li>
+          <li>interviewer</li>
+          <li>Indiana University</li>
+          <li>film and videography</li>
+        </ul>
+    </li>
+
+    <li> Aliye
+         <ul>
+          <li>digital photographer</li>
+          <li>film photography</li>
+          <li>youtube</li>
+          <li>primeire pro</li>
+          <li>Daugerreotypes</li>
+        </ul>
+    </li>
+
+    <li> Li
+         <ul>
+          <li>Public Relations firm</li>
+          <li>press kits and write media pitches</li>
+          <li>DoSomething.org</li>
+          <li>post graduation</li>
+        </ul>
+    </li>
+  </ol>
+
+</aside>
+
+
+<footer>
+	<div> CSC 174 Team TOKYO </div>
+
+<ul> 
+        <li> <a href="http://csc174.org/assignment02/vbongard/">Victoria's page</a></li>
         <li> <a href="http://csc174.org/assignment02/agallagher/">Aliye's page</a></li> 
-        <li> <a href="http://csc174.org/assignment02/lguo/">Lihui's page</a> </li> 
-        <li> <a href="http://csc174.org/assignment02/vbongard/">Victoria's page</a></li> 
+        <li> <a href="http://csc174.org/assignment02/lguo/">Lihui's page</a> </li>
     </ul>
 
-     <ul class="action"><li><a href="home.php"> Back to Home</li></ul>
+
+     <ul class="action"><li><a href="home.php"> Back to Home</a></li></ul>
 </footer>
+</div>
 </div>
 </body>
 </html>

@@ -33,7 +33,7 @@
     </ul>
 
 
-  <ul class="action"><li><a href="subpage.php"> read more!</li></ul>
+  <ul class="action"><li><a href="subpage.php"> read more! </a></li></ul>
 
 
 </footer>
