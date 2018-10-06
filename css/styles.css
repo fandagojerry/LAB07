@@ -1,33 +1,55 @@
 body {margin: 0 auto;
 	width: 90%;
-	max-width: 1010px;
-	background-color: #ffe6e6;
+	max-width: 960px;
+	background-color: #b7fff7;
 	color: #333333;
-	font-family: 'Roboto', sans-serif;
-	font-size: x-large;}
+	font-family: verdana, sans-serif;
+	}
 
-header {color: #333333;
-	text-align: center;
-	font-family: 'Roboto Slab', serif;
-	text-decoration: underline;}
+/* styles from http://typespiration.com/types/the-beauty-of-words */
 
-img {border: 3px white;
+h1 {
+	color: #252010;
+	font-family: 'Expletus Sans';
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 60px;
+	margin-bottom: 48px;
+	letter-spacing: -1px;
+	text-transform: none;
+}
+
+p {
+	color: #40371D;
+	font-family: 'Dosis';
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 36px;
+	margin-bottom: 36px;
+}
+
+/* */
+
+
+img {
+	border-radius: 25px;
 	float: right;
-	border: 2px solid #333333;
+	border: 5px solid white;
 	padding: 10px;
-	background-color: white;
 	margin: 20px;}
 
-p {text-indent: 50px;
-	line-height: 1.75em;
-	padding: 10px;}
+img.secpic {
+	float: left;
+
+}
+
 
 footer {font-size: medium;
 	font-style: italic;
 	text-align: center;}
 
-h3 {text-decoration: underline;
-	font-family: 'Roboto Slab', serif;}
+h3 {text-decoration: none;
+	font-size: 80%}
 
 a {color: #333333;}
 

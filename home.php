@@ -11,7 +11,7 @@
 	<p>My name is Victoria Bongard and I am a junior attending the University of Rochester. I am double majoring in Film and Media Studies and Digital Media Studies with a minor in Computer Science. I was born in Durham, North Carolina and then spent a year of my infancy in New York City before moving to Blacksburg, Virginia for most of the remainder of my childhood. My family moved to Bloomington, Indiana during the summer before I started high school. Two months after moving I began attending Chatham Hall, an all-girls boarding school located in rural southern Virginia. While my family has lived in Indiana for the past 6 years, I have only ever spent breaks there. Thus, I consider myself to be from Virginia and occasionally Indiana, too.</p>
 
 	<h2>Aliye gallagher</h2>
-	<img src="images/aliye.jpg" alt="Aliye">
+	<img class="secpic" src="images/aliye.jpg" alt="Aliye">
 	<h3>About me</h3>
 	<p>I created my own major here at the U of R (a DIY major!), through the interdepartmental
        major track. I realized in my first year that none of the majors that were offered were
@@ -29,7 +29,7 @@
      </p>
      
     <h2>Lihui Guo</h2>
-    <img src="images/lihui.jpg" alt="Lihui">
+    <img src="images/lihui.png" alt="Lihui">
     <h3>About me</h3>
 	<p>I grew up in Brooklyn, New York in a predominantly Asian-American and Italian-American neighborhood. My parents had just moved from Japan/China to be with other family in New York City. I spent a lot of time with relatives as a child, particularly with my older cousins and grandparents. Our neighborhood had everything we needed – everything was within walking distance, and it was really nice to have family so close. My family was and still is super important to me. They’re always my biggest supporters and I really appreciate how my parents aren’t stereotypical “Asian tiger parents”.</p>
 
