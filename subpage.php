@@ -46,6 +46,8 @@
         <li> <a href="http://csc174.org/assignment02/lguo/">Lihui's page</a> </li> 
         <li> <a href="http://csc174.org/assignment02/vbongard/">Victoria's page</a></li> 
     </ul>
+
+     <ul class="action"><li><a href="home.php"> Back to Home</li></ul>
 </footer>
 </div>
 </body>

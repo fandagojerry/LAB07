@@ -15,7 +15,7 @@
 
 	<h2>Aliye gallagher</h2>
   <img class="secpic" src="images/aliye.jpg" alt="Aliye">
-  <p>I created my own major here at the U of R (a DIY major!), through the interdepartmental major track. I realized in my first year that none of the majors that were offered were exactly right for me, and started to look into the interdepartmental major option.
+  <p>I created my own major here at the U of R (a DIY major!), through the interdepartmental major track. I realized in my first year that none of the majors that were offered were exactly right for me, and started to look into the interdepartmental major option. Basically, you're petitioning the school that none of the majors would fulfil what you want to do. 
      </p>
      
   <h2>Lihui Guo</h2>
@@ -24,13 +24,18 @@
 
 </article>
 <footer>
-	<p> CSC 174 Team TOKYO </p>
+	<h2> CSC 174 Team TOKYO </h2>
 
 	 <ul> 
         <li> <a href="http://csc174.org/assignment02/vbongard/">Victoria's page</a></li>
         <li> <a href="http://csc174.org/assignment02/agallagher/">Aliye's page</a></li> 
         <li> <a href="http://csc174.org/assignment02/lguo/">Lihui's page</a> </li>
     </ul>
+
+
+  <ul class="action"><li><a href="subpage.php"> read more!</li></ul>
+
+
 </footer>
 </div>
 </body>
