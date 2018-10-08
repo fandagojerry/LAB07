@@ -13,10 +13,9 @@
 	<p>My name is Victoria Bongard and I am a junior attending the University of Rochester. I am double majoring in Film and Media Studies and Digital Media Studies with a minor in Computer Science. I was born in Durham, North Carolina and then spent a year of my infancy in New York City before moving to Blacksburg, Virginia for most of the remainder of my childhood. </p>
 
 
-	<h2>Aliye gallagher</h2>
+	<h2>Aliye Gallagher</h2>
   <img class="secpic" src="images/aliye.jpg" alt="Aliye">
-  <p>I created my own major here at the U of R (a DIY major!), through the interdepartmental major track. I realized in my first year that none of the majors that were offered were exactly right for me, and started to look into the interdepartmental major option. Basically, you're petitioning the school that none of the majors would fulfil what you want to do. 
-     </p>
+  <p>I created my own major here at the U of R (a DIY major!), through the interdepartmental major track. I realized in my first year that none of the majors that were offered were exactly right for me, and started to look into the interdepartmental major option. Basically, you're petitioning the school that none of the majors would fulfil what you want to do. </p>
      
   <h2>Lihui Guo</h2>
     <img src="images/lihui.png" alt="Lihui">

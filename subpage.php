@@ -10,7 +10,7 @@
 
   <section class="lead">
   <h2> About the three students</h2>
-  <p>Hey! This website will tell some brief stories about three U of R students: Victoria Bongard, Aliye gallagher,and Li Guo. Two students have similarities in film and photography experience. The third student is different in work experience in marketing than the other two. Can you find them? </p>
+  <p>Hey! This website will tell some brief stories about three U of R students: Victoria Bongard, Aliye Gallagher,and Li Guo. Two students have similarities in film and photography experience. The third student is different in work experience in marketing than the other two. Can you find them? </p>
   </section>
 
   <article>
@@ -19,7 +19,7 @@
 	<h3>Employment</h3>
 	<p>My first official paid job was as a camp counselor and photographer at the Chatham Hall summer camps (held at my high school). I had various volunteer jobs before then, including as a film camp counselor, another camp counselor, a production assistant, and more. This past summer I worked as a paid counselor at Indiana University’s Digital Cinema Academy camp teaching high school students about film and videography.</p>
 	
-	<h2>Aliye gallagher</h2>    
+	<h2>Aliye Gallagher</h2>    
      <h3>film</h3>
      <p>Last fall, I studied abroad in London, and I had an internship at a firm
       that interviews film stars and filmmakers for promo for films, and edits
@@ -28,7 +28,7 @@
       with the movie poster behind you), as well as twice on the red carpet. I
       learned Premiere Pro like the back of my hand, and went from being the most
       awkward as an interviewer to only slightly awkward.
-     </p>
+      </p>
 
      <h3>photography</h3>
      <p>I also love photography and the arts, and am a digital photographer, though
@@ -40,7 +40,7 @@
       Special Collections library at the time. I hope at some point in my career,
       I’ll be able to combine my passion for photography and the arts and my work
       in Digital Media.
-    </p>
+      </p>
 
     <h2>Li Guo</h2>
 	<h3>Work Experience</h3>
@@ -67,7 +67,7 @@
           <li>digital photographer</li>
           <li>film photography</li>
           <li>youtube</li>
-          <li>primeire pro</li>
+          <li>premiere pro</li>
           <li>Daugerreotypes</li>
         </ul>
     </li>
