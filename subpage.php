@@ -96,7 +96,7 @@
     </ul>
 
 
-     <ul class="action"><li><a href="home.php"> Back to Home</a></li></ul>
+     <ul class="action"><li><a href="index.php"> Back to Home</a></li></ul>
 </footer>
 </div>
 </div>
