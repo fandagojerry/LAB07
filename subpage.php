@@ -2,7 +2,7 @@
 
 <div class="container2">
 <header>
-      <h1>Experence in Art VS Marketing Experience</h1>
+      <h1>Experience in Art VS Marketing Experience</h1>
 </header>
 
 
@@ -66,8 +66,8 @@
          <ul>
           <li>digital photographer</li>
           <li>film photography</li>
-          <li>youtube</li>
-          <li>premiere pro</li>
+          <li>YouTube</li>
+          <li>Premiere Pro</li>
           <li>Daugerreotypes</li>
         </ul>
     </li>
@@ -75,7 +75,8 @@
     <li> Li
          <ul>
           <li>Public Relations firm</li>
-          <li>press kits and write media pitches</li>
+          <li>press kits</li>
+          <li>media pitches</li>
           <li>DoSomething.org</li>
           <li>post graduation</li>
         </ul>
