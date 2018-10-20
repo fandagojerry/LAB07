@@ -11,7 +11,7 @@ part 3: subpage F-pattern style
 	background-image: linear-gradient(#4AC29A, #BDFFF3);
 	color: #333333;
 	font-family: verdana, sans-serif;
-	padding:30px 20px 80px 20px;
+	padding:30px 0px 80px 0px;
 	}
 
 /* styles from http://typespiration.com/types/the-beauty-of-words */
@@ -23,16 +23,14 @@ h1 {
 
 
 h2 {
-	border: white dashed;
-	font-size: 200%;
+	font-size: 150%;
 	}
 
 p, aside {
 	color: #40371D;
 	font-size: 20px;
-	line-height: 36px;
+	line-height: 26px;
 	margin-bottom: 32px;
-	padding-bottom: 40px;
 	}
 a{
 	text-decoration: none;
@@ -44,11 +42,12 @@ footer {font-size: medium;
 }
 
 
-.topleft {float: left;}
-
-.topleft img{
+/********************************   part2    ******************************/
+.topleft {
+	float: left;
 	width: 300px;
 	height: auto;
+	padding-left: 20px;
 }
 
 .topright, .bottomright {
@@ -65,8 +64,6 @@ footer {font-size: medium;
 	font-weight: 900;
 	display: inline-block;}
 
-/********************************   part2    ******************************/
-
 /* The hero image (w3school reference) */
 .hero {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
@@ -79,12 +76,12 @@ footer {font-size: medium;
 }
 
 /* Place text in the middle of the image */
-.middle {
+.middle-text {
     padding-bottom: 200px;
     top:80px;
     color: white;
 }
-.middle h1{	
+.middle-text h1{	
 	text-align: center;
 	display: block;
 	padding-top: 200px;
@@ -92,24 +89,20 @@ footer {font-size: medium;
 }
 
 .bottomleft{
-	padding-top: 120px;
+	padding-top: 100px;
 	display: grid;
-	grid-template-columns: repeat(3, 1fr);
+	grid-template-columns: repeat(3, 0.7fr);
     grid-gap: 20px;
-    grid-auto-rows: minmax(100px, auto);
 }
 
 .grid1 {
 	grid-column: 1;
-	grid-row: 1
 }
 .grid2 {
 	grid-column: 2;
-	grid-row: 1
 }
 .grid3 {
 	grid-column: 3;
-	grid-row: 1
 }
 
 
@@ -119,32 +112,48 @@ footer {font-size: medium;
 .bottomleft p{
 	font-size: 100%;
 	line-height: 20px;
-	margin-bottom: 0px;
-	padding-bottom: 0px;
 }
 
 .bottomleft img{
 	width:100px;
 	height: auto;
 	float: left;
-	padding: 15px;
+	padding: 15px 15px 0 0;
 }
 
+.bottomright ul li{
+	background-color: #ffff66;
+	padding: 10px;
+}
 
 
 /********************************   part3    ******************************/
 
-.container2{
+.wrapper{
 	display: grid;
-	grid-template-columns: 2fr 1fr;
-    grid-column-gap: 60px;
+	grid-template-columns: 1fr 4fr 1fr;
+    grid-column-gap: 40px;
+    padding: 20px;
 }
 
+
+
+.middle-h1{
+	text-align: center;
+	display: block;
+	margin-top:  100px;
+	margin-bottom: 0px;
+}
 .lead{
-	padding-right: 20px;
+	padding:30px;
 	font-weight: bold;
-
+	border-bottom: 1px solid;
 }
+
+.lead h2{
+	text-align: center;
+}
+
 .img-border {
 	border-radius: 25px;
 	float: right;
@@ -152,20 +161,22 @@ footer {font-size: medium;
 	padding: 10px;
 	margin: 20px;}
 
-header,.lead, footer{
+.content{
 
-	grid-column: 1/3;
+	grid-column: 2/3;
 
 }
 
-aside h2{
-	font-size: 150%;
+
+aside{
+	font-size: 100%;
+
 }
 
 
 aside ol{
 	background-color: #DAF2EB;
-	line-height: 60px;
+	line-height: 30px;
 }
 
 aside ol li ul{padding-bottom: 100px; }

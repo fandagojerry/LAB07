@@ -1,19 +1,17 @@
 <?php include "inc/html.inc"; ?>
-<div class="topleft">
-<img src="images/logo.png" alt="LOGO">
 
-</div>
+<img class="topleft" src="images/logo.png" alt="LOGO">
 
-<?php include "includes/nav.inc"; ?>
-
+<?php include "inc/nav.inc"; ?>
+  <h1 class="middle-h1">ODD STUDENTS OUT</h1>
 
   <section class="lead">
-  <h2>ODD STUDENTS OUT</h2>
+  <h2>Introduction</h2>
   <p>Victoria Bongard and Aliye Gallagher have similarities in film and photography experience. Li Guo is in marketing and business field</p>
-
   </section>
 
-  <article>
+<div class="wrapper">
+  <section class="content">
 	<h2>Victoria Bongard</h2>
 	<h3>Employment</h3>
 	<p>My first official paid job was as a camp counselor and photographer at the Chatham Hall summer camps (held at my high school). I had various volunteer jobs before then, including as a film camp counselor, another camp counselor, a production assistant, and more. This past summer I worked as a paid counselor at Indiana University’s Digital Cinema Academy camp teaching high school students about film and videography.</p>
@@ -45,13 +43,11 @@
 	<h3>Work Experience</h3>
 	<p>The summer after freshman year, I worked for a Public Relations firm. It involved making a lot of cold calls, which I hated, but really got me over my distaste of talking on the phone. I also prepared press kits and got to write media pitches, which was considerably easier for me to do. The next summer, I worked at a not-for-profit called DoSomething.org! They were in the business of creating social good by encouraging teenagers to take action on various issues ranging from environmental awareness to sexual health. I worked on the Marketing team, and that internship basically locked me into wanting to work in Marketing, as well as for an organization that dealt with something that I was really passionate about. It was really easy waking up at 7AM to go to work when I was happy to be there. The company culture was really fun, with themed Fridays, bake-offs, and pool floats everywhere. Now that I’m a senior, I’m starting the job hunt for post-graduation, so here’s hoping that I land a position with a company that cares about its employees!</p>
 	
-</article>
+</section>
 
-<aside class="toprightfunfacts">
-
+<aside>
 <h2>Clues</h2>
- <ol>
-    <li> Victoria
+    <h3> Victoria</h3>
          <ul>
           <li>camp counselor</li>
           <li>photographer</li>
@@ -59,9 +55,8 @@
           <li>Indiana University</li>
           <li>film and videography</li>
         </ul>
-    </li>
 
-    <li> Aliye
+    <h3> Aliye</h3>
          <ul>
           <li>digital photographer</li>
           <li>film photography</li>
@@ -69,9 +64,8 @@
           <li>Premiere Pro</li>
           <li>Daugerreotypes</li>
         </ul>
-    </li>
 
-    <li> Li
+    <h3> Li </h3>
          <ul>
           <li>Public Relations firm</li>
           <li>press kits</li>
@@ -79,8 +73,6 @@
           <li>DoSomething.org</li>
           <li>post graduation</li>
         </ul>
-    </li>
-  </ol>
 
 </aside>
 
@@ -94,6 +86,7 @@
         <li> <a href="http://csc174.org/assignment02/lguo/">Lihui's page</a> </li>
 </ul>
 </footer>
+</div>
 </div>
 
 </body>

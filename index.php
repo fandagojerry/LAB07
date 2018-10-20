@@ -1,12 +1,12 @@
 <?php include "inc/html.inc"; ?>
 
-<div class="topleft">
-<img src="images/logo.png" alt="LOGO">
+<div class="top">
+ <img class="topleft" src="images/logo.png" alt="LOGO">
+ <?php include "inc/nav.inc"; ?>
 </div>
-<?php include "inc/nav.inc"; ?>
 
 
-<div class="middle hero">
+<div class="middle-text hero">
    <h1> Three UR Students</h1>
 </div>
 
