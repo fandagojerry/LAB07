@@ -11,7 +11,7 @@ part 3: subpage F-pattern style
 	background-image: linear-gradient(#4AC29A, #BDFFF3);
 	color: #333333;
 	font-family: verdana, sans-serif;
-	padding:30px;
+	padding:30px 20px 80px 20px;
 	}
 
 /* styles from http://typespiration.com/types/the-beauty-of-words */
@@ -51,17 +51,19 @@ footer {font-size: medium;
 	height: auto;
 }
 
-.topright {
+.topright, .bottomright {
 	float: right;
 	font-size: 22px;
 }
 
-.topright ul{
+.topright ul,.bottomright ul{
 	list-style: none;
 }
 
-.topright ul li {padding: 10px;
-                display: inline-block;}
+.topright ul li, .bottomright ul li {
+	padding: 10px;
+	font-weight: 900;
+	display: inline-block;}
 
 /********************************   part2    ******************************/
 
@@ -79,7 +81,7 @@ footer {font-size: medium;
 /* Place text in the middle of the image */
 .middle {
     padding-bottom: 200px;
-    top:120px;
+    top:80px;
     color: white;
 }
 .middle h1{	
@@ -93,7 +95,7 @@ footer {font-size: medium;
 	padding-top: 120px;
 	display: grid;
 	grid-template-columns: repeat(3, 1fr);
-    grid-gap: 10px;
+    grid-gap: 20px;
     grid-auto-rows: minmax(100px, auto);
 }
 
@@ -121,23 +123,13 @@ footer {font-size: medium;
 	padding-bottom: 0px;
 }
 
-/* resize and style other images */
 .bottomleft img{
 	width:100px;
 	height: auto;
+	float: left;
+	padding: 15px;
 }
 
-
-
-
-
-
-.img-border {
-	border-radius: 25px;
-	float: right;
-	border: 5px solid white;
-	padding: 10px;
-	margin: 20px;}
 
 
 /********************************   part3    ******************************/
@@ -153,6 +145,12 @@ footer {font-size: medium;
 	font-weight: bold;
 
 }
+.img-border {
+	border-radius: 25px;
+	float: right;
+	border: 5px solid white;
+	padding: 10px;
+	margin: 20px;}
 
 header,.lead, footer{
 
