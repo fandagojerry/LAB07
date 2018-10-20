@@ -1,20 +1,19 @@
 <?php include "inc/html.inc"; ?>
+<div class="topleft">
+<img src="images/logo.png" alt="LOGO">
 
-<div class="container2">
-<header>
-      <h1>Experience in Art VS Marketing Experience</h1>
-</header>
+</div>
 
-
+<?php include "includes/nav.inc"; ?>
 
 
   <section class="lead">
-  <h2> About the three students</h2>
-  <p>Hey! This website will tell some brief stories about three U of R students: Victoria Bongard, Aliye Gallagher,and Li Guo. Two students have similarities in film and photography experience. The third student is different in work experience in marketing than the other two. Can you find them? </p>
+  <h2>ODD STUDENTS OUT</h2>
+  <p>Victoria Bongard and Aliye Gallagher have similarities in film and photography experience. Li Guo is in marketing and business field</p>
+
   </section>
 
   <article>
-
 	<h2>Victoria Bongard</h2>
 	<h3>Employment</h3>
 	<p>My first official paid job was as a camp counselor and photographer at the Chatham Hall summer camps (held at my high school). I had various volunteer jobs before then, including as a film camp counselor, another camp counselor, a production assistant, and more. This past summer I worked as a paid counselor at Indiana University’s Digital Cinema Academy camp teaching high school students about film and videography.</p>
@@ -48,7 +47,7 @@
 	
 </article>
 
-<aside>
+<aside class="toprightfunfacts">
 
 <h2>Clues</h2>
  <ol>
@@ -93,12 +92,9 @@
         <li> <a href="http://csc174.org/assignment02/vbongard/">Victoria's page</a></li>
         <li> <a href="http://csc174.org/assignment02/agallagher/">Aliye's page</a></li> 
         <li> <a href="http://csc174.org/assignment02/lguo/">Lihui's page</a> </li>
-    </ul>
-
-
-     <ul class="action"><li><a href="index.php"> Back to Home</a></li></ul>
+</ul>
 </footer>
 </div>
-</div>
+
 </body>
 </html>
