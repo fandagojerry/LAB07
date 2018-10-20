@@ -37,27 +37,28 @@ p, aside {
 	margin-bottom: 32px;
 	padding-bottom: 40px;
 	}
-
-a {color: #333333;}
-
-a:link {text-decoration: none;
-	color: #333333;}
-
-a:hover {color: white;
-	background-color: black;
-	padding: 5px;}
+a{
+	text-decoration: none;
+    padding: 20px;}
 
 footer {font-size: medium;
 	font-style: italic;
 }
-ul.action{
-	font-size: 22px;
-	background-color: #b7fff7;
-	list-style: none;
-	padding: 10px;
-	border: white outset;
+
+
+.topleft {float: left;}
+
+.topright {
 	float: right;
+	font-size: 22px;
 }
+
+.topright ul{
+	list-style: none;
+}
+
+.topright ul li {padding: 10px;}
+
 /********************************   part2    ******************************/
 
 /* The hero image (w3school reference) */
@@ -76,9 +77,9 @@ ul.action{
 }
 
 /* Place text in the middle of the image */
-h1 {
+.middle {
     text-align: center;
-    top: 50%;
+    top: 90%;
     left: 50%;
     color: white;
 }
