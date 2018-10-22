@@ -6,8 +6,8 @@
   <h1 class="middle-h1">ODD STUDENTS OUT</h1>
 
   <section class="lead">
-  <h2>Introduction</h2>
-  <p>Victoria Bongard and Aliye Gallagher have similarities in film and photography experience. Li Guo is in marketing and business field</p>
+  <h2 class="text-center">Introduction</h2>
+  <p>Victoria Bongard and Aliye Gallagher have similarities in film and photography experience. <strong>Li Guo</strong> is in marketing and business field.</p>
   </section>
 
   <section class="content">
@@ -49,13 +49,13 @@
   <p> The next summer, I worked at a not-for-profit called DoSomething.org! They were in the business of creating social good by encouraging teenagers to take action on various issues ranging from environmental awareness to sexual health. I worked on the Marketing team, and that internship basically locked me into wanting to work in Marketing, as well as for an organization that dealt with something that I was really passionate about. It was really easy waking up at 7AM to go to work when I was happy to be there. The company culture was really fun, with themed Fridays, bake-offs, and pool floats everywhere. Now that I’m a senior, I’m starting the job hunt for post-graduation, so here’s hoping that I land a position with a company that cares about its employees!</p>
 	
 </section>
-<footer>
+<footer  class="text-center">
 	<div> CSC 174 Team TOKYO </div>
 
-<ul> 
-        <li> <a href="http://csc174.org/assignment02/vbongard/">Victoria's page</a></li>
-        <li> <a href="http://csc174.org/assignment02/agallagher/">Aliye's page</a></li> 
-        <li> <a href="http://csc174.org/assignment02/lguo/">Lihui's page</a> </li>
+<ul class="ulnostyle"> 
+        <li class="list-button"> <a href="http://csc174.org/assignment02/vbongard/">Victoria's page</a></li>
+        <li class="list-button"> <a href="http://csc174.org/assignment02/agallagher/">Aliye's page</a></li> 
+        <li class="list-button"> <a href="http://csc174.org/assignment02/lguo/">Lihui's page</a> </li>
 </ul>
 </footer>
 </div>

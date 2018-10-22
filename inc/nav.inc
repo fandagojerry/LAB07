@@ -1,6 +1,6 @@
 <nav class="topright">
-        <ul>
-            <li> <a href="index.php">Home</a></li>
-            <li> <a href="subpage.php">Odd Students</a></li>
+        <ul class="ulnostyle">
+            <li class="list-button"> <a href="index.php">Home</a></li>
+            <li class="list-button"> <a href="subpage.php">Odd Students</a></li>
         </ul>
 </nav>

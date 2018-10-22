@@ -41,6 +41,7 @@ a{
 
 footer {font-size: medium;
 	font-style: italic;
+	padding: 10px;
 }
 
 
@@ -57,11 +58,11 @@ footer {font-size: medium;
 	font-size: 22px;
 }
 
-.topright ul,.bottomright ul{
+.ulnostyle{
 	list-style: none;
 }
 
-.topright ul li, .bottomright ul li {
+.list-button {
 	padding: 10px;
 	font-weight: 900;
 	display: inline-block;}
@@ -128,11 +129,6 @@ footer {font-size: medium;
 	line-height: 20px;
 }
 
-.bottomright ul li{
-	background-color: #ffff66;
-	padding: 15px;
-}
-
 
 /********************************   part3    ******************************/
 
@@ -143,12 +139,13 @@ footer {font-size: medium;
 	margin-bottom: 0px;
 }
 .lead{
-	padding:30px;
-	font-weight: bold;
+	margin-right: 20px;
+	margin-left: 20px;
+	padding: 20px;
 	border-bottom: 1px solid;
 }
 
-.lead h2{
+.text-center{
 	text-align: center;
 }
 
@@ -190,8 +187,8 @@ footer {font-size: medium;
 }
 
 
-.padding-top-150{
-	padding-top: 150px;
+.padding10{
+	padding:10px;
 }
 
 .bgwhite{
@@ -201,4 +198,8 @@ footer {font-size: medium;
 .border-dot{
 	border-style: dotted;
 	border-color: white;
+}
+footer ul li{
+	display: inline-block;
+	padding: 10px;
 }

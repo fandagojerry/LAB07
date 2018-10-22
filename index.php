@@ -29,7 +29,7 @@
   </div> 
 
 <div class="bottomright grid4">
-<ul><li><a href="subpage.php"> Read more! </a></li></ul>
+<ul class="ulnostyle bgyellow padding10"><li class="list-button"><a href="subpage.php"> Read more! </a></li></ul>
 </div>
 
 </section>
