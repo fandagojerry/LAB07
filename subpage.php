@@ -13,7 +13,7 @@
   <section class="content">
 	<h2 class="bgyellow">Victoria Bongard</h2>
  <img class="gridr2" src="images/victoria.jpg" alt="Victoria">
-	<h3 class="gridr2">Employment</h3>
+	<h3 class="gridr2">film and videography</h3>
 	<p class="gridr2">My first official paid job was as a camp counselor and photographer at the Chatham Hall summer camps (held at my high school). I had various volunteer jobs before then, including as a film camp counselor, another camp counselor, a production assistant, and more. This past summer I worked as a paid counselor at Indiana University’s Digital Cinema Academy camp teaching high school students about film and videography.</p>
 	
 	<h2 class="bgyellow">Aliye Gallagher</h2>  
