@@ -9,16 +9,16 @@ Designer: Xinyi Chen
 Coder: Ryan Lin
 
 TEAM Website link:http://csc174.org/assignment07/tokyo/
+TEAM repository: https://github.com/fandagojerry/LAB07
 
 ## Ontology
 
-This website contains two pages Home and subpage about three U of R students. Home page will contain general introduction of each students. The subpage will contain more in-depth details about similarities of the two students in photography and file and difference between the two students and the third student who is in marketing. Two students have similarities in film and photography experience. The third student is different in work experience in marketing than the other two. In Each page will also contain reference from the student's original website.
+This website contains two pages Home and subpage about three U of R students. Home page will contain logo on the top left, Nav on the top right, short introduction of each students on the bottom left and strong read more button on the buttom right. The subpage will contain more in-depth details about similarities of the two students and the odd student with clearly marked titles. The referantial link in kept in the bottom. 
 
 ## Taxonomy
+In the home page content will be limited and mutiple section will be used to create Z pattern. h1 stating title,h2 stating the students name, P tag that contain the introduction. There will also be a button on the home page that leads to the more detailed subpage.
 
-Each page will have title and header named as three students because this website describes three students. In the home page there will be multiple h2 stating the students name, P tag that contain the introduction.  There will also be a button on the home page that leads to the more detailed subpage. On the bottom, there will be reference of where we get the information from. 
-
-On the subpage, there will be multiple h2 tag stating the name, h3 tag stating name of the content, and p for the content. At the bottom, there will be reference for where we get the information from. 
+On the subpage, F pattern is used by having multiple h2 tag stating the name, h3 tag to show differences, and p for the content. At the bottom, there will be reference links for where we get the information from. 
 
 ## Choreography
 
