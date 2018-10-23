@@ -13,7 +13,7 @@
   <section class="content">
 	<h2 class="bgyellow">Victoria Bongard</h2>
  <img class="gridr2" src="images/victoria.jpg" alt="Victoria">
-	<h3 class="gridr2">film and videography</h3>
+	<h3 class="gridr2">film</h3>
 	<p class="gridr2">My first official paid job was as a camp counselor and photographer at the Chatham Hall summer camps (held at my high school). I had various volunteer jobs before then, including as a film camp counselor, another camp counselor, a production assistant, and more. This past summer I worked as a paid counselor at Indiana University’s Digital Cinema Academy camp teaching high school students about film and videography.</p>
 	
 	<h2 class="bgyellow">Aliye Gallagher</h2>  
@@ -42,10 +42,8 @@
 
     <h2 class="bgwhite">Li Guo</h2>
    <img class="border-dot gridr7" src="images/lihui.png" alt="Lihui">
-	<h3>Work Experience</h3>
-	<p>The summer after freshman year, I worked for a Public Relations firm. It involved making a lot of cold calls, which I hated, but really got me over my distaste of talking on the phone. I also prepared press kits and got to write media pitches, which was considerably easier for me to do. </p>
 
-  <h3>DoSomething.org</h3>
+  <h3>business</h3>
   <p> The next summer, I worked at a not-for-profit called DoSomething.org! They were in the business of creating social good by encouraging teenagers to take action on various issues ranging from environmental awareness to sexual health. I worked on the Marketing team, and that internship basically locked me into wanting to work in Marketing, as well as for an organization that dealt with something that I was really passionate about. It was really easy waking up at 7AM to go to work when I was happy to be there. The company culture was really fun, with themed Fridays, bake-offs, and pool floats everywhere. Now that I’m a senior, I’m starting the job hunt for post-graduation, so here’s hoping that I land a position with a company that cares about its employees!</p>
 	
 </section>
