@@ -53,9 +53,9 @@
 	<div> CSC 174 Team TOKYO </div>
 
 <ul class="ulnostyle"> 
-        <li class="list-button"> <a href="http://csc174.org/assignment02/vbongard/">Victoria's page</a></li>
-        <li class="list-button"> <a href="http://csc174.org/assignment02/agallagher/">Aliye's page</a></li> 
-        <li class="list-button"> <a href="http://csc174.org/assignment02/lguo/">Lihui's page</a> </li>
+        <li class="list-button bgyellow"> <a href="http://csc174.org/assignment02/vbongard/">Victoria's page</a></li>
+        <li class="list-button bgyellow"> <a href="http://csc174.org/assignment02/agallagher/">Aliye's page</a></li> 
+        <li class="list-button bgyellow"> <a href="http://csc174.org/assignment02/lguo/">Lihui's page</a> </li>
 </ul>
 </footer>
 </div>

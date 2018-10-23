@@ -1,31 +1,21 @@
-/* part1:the general style that both webpages will follow
-part 2: home page Z-pattern style
-part 3: subpage F-pattern style
- */
 
+/********************************   Base Style    ******************************/
+ @import url('http://fonts.googleapis.com/css?family=Montserrat');
+ @import url('https://fonts.googleapis.com/css?family=Hind');
 
-/********************************   part1    ******************************/
-.container {
-	margin: 0 auto;
-	width: 85%;
-	max-width: 960px;
-	background-image: linear-gradient(#4AC29A, #BDFFF3);
-	color: #333333;
-	font-family: verdana, sans-serif;
-	padding:30px 0px 80px 0px;
-	}
-
-/* styles from http://typespiration.com/types/the-beauty-of-words */
+body{font-family: 'Hind', sans-serif;}
 
 h1 {
 	font-size: 55px;
 	font-weight: 400;
+	font-family: 'Montserrat', sans-serif;
 }
 
 
 h2 {
 	font-size: 150%;
 	padding: 10px;
+    font-family: 'Montserrat', sans-serif;
 	}
 
 p, aside {
@@ -44,8 +34,36 @@ footer {font-size: medium;
 	padding: 10px;
 }
 
+footer ul li{
+	display: inline-block;
+	padding: 10px;
+}
 
-/********************************   part2    ******************************/
+/********************************  Layout Style    ******************************/
+.container {
+	margin: 0 auto;
+	width: 85%;
+	max-width: 960px;
+	background-image: linear-gradient(#4AC29A, #BDFFF3);
+	color: #333333;
+	font-family: 'Hind', sans-serif;
+	padding:30px 0px 80px 0px;
+	}
+
+/* styles from http://typespiration.com/types/the-beauty-of-words */
+.middle-h1{
+	text-align: center;
+	display: block;
+	margin-top:  100px;
+	margin-bottom: 0px;
+}
+.lead{
+	margin-right: 20px;
+	margin-left: 20px;
+	padding: 20px;
+	border-bottom: 1px solid;
+}
+
 .topleft {
 	float: left;
 	width: 300px;
@@ -58,13 +76,11 @@ footer {font-size: medium;
 	font-size: 22px;
 }
 
-.ulnostyle{
-	list-style: none;
-}
 
 .list-button {
 	padding: 10px;
 	font-weight: 900;
+	font-size: 25px;
 	display: inline-block;}
 
 /* The hero image (w3school reference) */
@@ -98,63 +114,16 @@ footer {font-size: medium;
     grid-gap: 20px;
 }
 
-.grid1 {
-	grid-column: 1;
-}
-.grid2 {
-	grid-column: 2;
-}
-.grid3 {
-	grid-column: 3;
-}
-.grid4{
-	grid-column: 4;
-}
-
-.gridr2{
-	grid-row: 2;
-}
-.gridr4{
-	grid-row: 4;
-}
-.gridr7{
-	grid-row: 7;
-}
-
 .bottomleft h2{
 	font-size: 100%;
 }
+
 .bottomleft p{
 	font-size: 100%;
 	line-height: 20px;
 }
 
-
-/********************************   part3    ******************************/
-
-.middle-h1{
-	text-align: center;
-	display: block;
-	margin-top:  100px;
-	margin-bottom: 0px;
-}
-.lead{
-	margin-right: 20px;
-	margin-left: 20px;
-	padding: 20px;
-	border-bottom: 1px solid;
-}
-
-.text-center{
-	text-align: center;
-}
-
-.img-border {
-	border-radius: 25px;
-	float: right;
-	border: 5px solid white;
-	padding: 10px;
-	margin: 20px;}
+/* grid layout */
 
 .content{
 	display: grid;
@@ -178,6 +147,46 @@ footer {font-size: medium;
 	grid-column: 1;
 }
 
+/********************************  Modules section   ******************************/
+
+.grid1 {
+	grid-column: 1;
+}
+.grid2 {
+	grid-column: 2;
+}
+.grid3 {
+	grid-column: 3;
+}
+.grid4{
+	grid-column: 4;
+}
+
+.gridr2{
+	grid-row: 2;
+}
+.gridr4{
+	grid-row: 4;
+}
+.gridr7{
+	grid-row: 7;
+}
+
+.ulnostyle{
+	list-style: none;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.img-border {
+	border-radius: 25px;
+	float: right;
+	border: 5px solid white;
+	padding: 10px;
+	margin: 20px;}
+
 .bgyellow {
 	background-color: #ffff66;
 }
@@ -198,8 +207,4 @@ footer {font-size: medium;
 .border-dot{
 	border-style: dotted;
 	border-color: white;
-}
-footer ul li{
-	display: inline-block;
-	padding: 10px;
 }
